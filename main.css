@@ -1178,6 +1178,10 @@ display:block;
 
 	
 }
+.fontitem p
+ {
+	 font-family:'raleway',sans-serif;
+	 }
 .contactitem>p
 {
 	color:#313030b0;
